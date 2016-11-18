@@ -16,6 +16,8 @@ public class ArrayListDemo {
 			System.out.println(a);
 		}
 		
+		//Adding a comment in line number 19
+		
 		int x = cities.size();
 		
 		System.out.println("Total number of elements = " + x);
